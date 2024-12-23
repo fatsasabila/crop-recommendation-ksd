@@ -31,31 +31,18 @@ Follow the steps below to set up and run the application locally.
    cd crop-recommendation-ksd
    ```
 
-3. **(Optional) Create a Virtual Environment**:
+3. **Install Dependencies**:
    ```bash
-   python -m venv env
-   ```
-   - Activate the virtual environment:
-     - Windows:
-       ```bash
-       env\Scripts\activate
-       ```
-     - Mac/Linux:
-       ```bash
-       source env/bin/activate
-       ```
+  pip install Flask scikit-learn
 
-4. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
    ```
 
-5. **Run the Application**:
+4. **Run the Application**:
    ```bash
    python app.py
    ```
 
-6. **Access the Application**:
+5. **Access the Application**:
    - Open a web browser and navigate to:
      ```
      http://127.0.0.1:5000/
