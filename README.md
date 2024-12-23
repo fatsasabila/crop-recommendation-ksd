@@ -34,7 +34,6 @@ Follow the steps below to set up and run the application locally.
 3. **Install Dependencies**:
    ```bash
   pip install Flask scikit-learn
-
    ```
 
 4. **Run the Application**:
