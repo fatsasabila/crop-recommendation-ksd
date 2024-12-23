@@ -74,7 +74,10 @@ For any issues or questions, please open an issue in this repository.
 
 ---
 Komputasi Sains Data Project
+
 Fatsa Vidyaningtyas Sabila (2306319445)
+
 Shafa Khadijah Rahmat (2306319496)
+
 Arif Rezky Aprilianto (2406372584)
 
