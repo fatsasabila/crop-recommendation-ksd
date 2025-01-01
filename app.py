@@ -10,7 +10,7 @@ with open(model_path, 'rb') as file:
 
 @app.route('/')
 def index():
-    return render_template('index2.html')  # Render HTML file
+    return render_template('index3.html')  # Render HTML file
 
 @app.route('/predict', methods=['POST'])
 def predict():
